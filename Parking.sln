@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - API", "0 - API", "{732C5BD9-54CB-428E-A3A3-6E9B1D8F75EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Web", "Parking.Web\Parking.Web.csproj", "{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{0F78BED6-6A81-45D5-B167-23B54DFD66E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Application", "Parking.Application\Parking.Application.csproj", "{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{24C2B151-422A-49E5-A324-6EF46E4B3EAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - CrossCutting", "3 - CrossCutting", "{D68F81EF-8326-474D-BB1E-370C24931A92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Domain", "Parking.Domain\Parking.Domain.csproj", "{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Dto", "Parking.Dto\Parking.Dto.csproj", "{274250F9-0676-4D3C-8C38-977C8612CFCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking.Infra", "Parking.Infra\Parking.Infra.csproj", "{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274250F9-0676-4D3C-8C38-977C8612CFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274250F9-0676-4D3C-8C38-977C8612CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274250F9-0676-4D3C-8C38-977C8612CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274250F9-0676-4D3C-8C38-977C8612CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A14FA49E-312B-46DE-B2A7-56A7CFEFE49B} = {732C5BD9-54CB-428E-A3A3-6E9B1D8F75EB}
+		{1A3E987D-5A7C-422B-BE80-E45F1A3DDCE5} = {0F78BED6-6A81-45D5-B167-23B54DFD66E8}
+		{F6D6DE5A-6B9E-4F6B-B29E-621EAA76D1E5} = {24C2B151-422A-49E5-A324-6EF46E4B3EAB}
+		{274250F9-0676-4D3C-8C38-977C8612CFCE} = {D68F81EF-8326-474D-BB1E-370C24931A92}
+		{DFA49351-2B5F-474D-AD2E-F379BD3DBAAE} = {D68F81EF-8326-474D-BB1E-370C24931A92}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C09643-B813-425D-96E7-1F9525279C5E}
+	EndGlobalSection
+EndGlobal

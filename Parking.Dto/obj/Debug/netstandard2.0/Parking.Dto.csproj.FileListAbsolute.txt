@@ -1,0 +1,9 @@
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.deps.json
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.csproj.CoreCompileInputs.cache
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.AssemblyInfoInputs.cache
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.AssemblyInfo.cs
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.csprojAssemblyReference.cache

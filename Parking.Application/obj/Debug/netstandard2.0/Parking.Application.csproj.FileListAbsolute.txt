@@ -1,0 +1,16 @@
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.deps.json
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csprojAssemblyReference.cache
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CoreCompileInputs.cache
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfoInputs.cache
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfo.cs
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CopyComplete
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.dll
+C:\Users\marcus.paixao\source\repos\Parking\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.pdb
